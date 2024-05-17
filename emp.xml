@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<greysoft>
+	<Employee empid="E001">
+
+		<EmpName>beena</EmpName>
+		<City>pune</City>
+	</Employee>
+	<Employee empid="E002">
+
+		<EmpName>teena</EmpName>
+		<City>kolhapur</City>
+	</Employee>
+	<Employee empid="E003">
+
+		<EmpName>leena</EmpName>
+		<City>nashik</City>
+	</Employee>
+	<Employee empid="E004">
+
+		<EmpName>meena</EmpName>
+		<City>mumbai</City>
+	</Employee>
+	<Employee empid="E0015>
+
+		<EmpName>heena</EmpName>
+		<City>ghatkoper</City>
+	</Employee>
+</greysoft>
